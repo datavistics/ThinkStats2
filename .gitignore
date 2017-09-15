@@ -57,3 +57,4 @@ docs/_build/
 *.png
 *~
 .idea/
+/code/.ipynb_checkpoints/
